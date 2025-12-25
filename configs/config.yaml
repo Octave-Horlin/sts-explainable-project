@@ -1,0 +1,15 @@
+default:
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  epochs: 1
+  batch_size: 32
+  learning_rate: 2.0e-5
+  warmup_steps: 100
+  max_seq_length: 256
+  output_dir: models/advanced_stsb
+  dataset: stsb
+  use_amp: false
+  device: cpu
+
+sick:
+  output_dir: models/advanced_sick
+  dataset: sick
