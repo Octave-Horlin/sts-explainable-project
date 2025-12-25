@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+outputs/
+data/processed/
+models/advanced_*/
+models/artifacts/
+*.pyc
