@@ -1,0 +1,16 @@
+{
+  "zero_shot": {
+    "pearson": 0.8696194598007265,
+    "spearman": 0.8671631197908374
+  },
+  "zero_shot_cls_pooling": {
+    "pearson": 0.7884239365778665,
+    "spearman": 0.7973282851202043
+  },
+  "tuned": {
+    "pearson": 0.8908965822097195,
+    "spearman": 0.8892164108107605,
+    "model_dir": "C:\\Users\\octav\\OneDrive\\Bureau\\Optionnal_Project\\models\\advanced_stsb"
+  },
+  "split": "dev"
+}

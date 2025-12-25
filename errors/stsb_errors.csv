@@ -1,0 +1,268 @@
+sentence1,sentence2,label,pred,abs_error,category
+A woman is playing the flute.,A man is playing a flute.,2.75,3.8569822907447815,1.1069822907447815,other
+A woman is cutting an onion.,A man is cutting onions.,2.615,3.830275535583496,1.2152755355834959,other
+People are playing cricket.,Men are playing cricket.,3.2,4.364438056945801,1.1644380569458006,other
+The girl sang into a microphone.,The lady sang into the microphone.,2.4,3.9469504356384277,1.5469504356384278,other
+The lady cracked an egg into a bowl.,The man is cracking eggs into a bowl.,2.6,3.8615387678146362,1.2615387678146361,other
+A woman is taking a picture.,A man is playing a guitar.,0.25,-0.7877194881439209,1.037719488143921,low_overlap
+Two little girls are talking on the phone.,A little girl is walking down the street.,0.5,1.7499662935733795,1.2499662935733795,low_overlap
+A guy is playing hackysack,A man is playing a key-board.,1.0,2.5212907791137695,1.5212907791137695,other
+A man is pressing microwave buttons.,A man turns on the microwave.,2.75,3.98497998714447,1.2349799871444702,low_overlap
+Men are jumping into water from a bridge.,Men jump in a river.,2.75,3.7777191400527954,1.0277191400527954,low_overlap
+People are playing baseball.,The cricket player hit the ball.,0.5,2.1955549716949463,1.6955549716949463,low_overlap
+A woman puts cosmetics on her eyelid.,The woman is pencilling on eye shadow.,4.0,2.5520187616348267,1.4479812383651733,low_overlap
+The lady stirred up raw eggs in the bowl.,A woman is pouring eyes into a bowl.,1.0,2.6965200901031494,1.6965200901031494,low_overlap
+The lady cut the tail and body of a shrimp.,A woman is cleaning a shrimp.,4.5,3.3604371547698975,1.1395628452301025,low_overlap
+Three men are dancing.,Women are dancing.,1.3,2.644268274307251,1.344268274307251,low_overlap
+A woman is chopping an onion.,A woman is chopping garlic with a knife.,1.8,3.4591779112815857,1.6591779112815856,other
+A man is playing flute.,A man is dancing.,0.2,1.4030641317367554,1.2030641317367554,other
+A parrot is talking.,A parrot is talking into a microphone.,3.0,4.519330859184265,1.5193308591842651,other
+A woman is mixing eggs.,The woman is eating.,0.5,1.7888616025447845,1.2888616025447845,low_overlap
+Someone is greating a carrot.,A woman is grating an orange food.,2.5,1.353280246257782,1.146719753742218,low_overlap
+A monkey is karate kicking a person.,A monkey pratices martial arts.,2.5,3.9258241653442383,1.4258241653442383,low_overlap
+A tiger is playing with his trainer.,A tiger attacks a man.,1.333,3.24127733707428,1.9082773370742798,low_overlap
+A cat retrieves an object out of a dish of water.,The cat tried to eat the corn on the cob.,0.6,2.154228687286377,1.5542286872863769,low_overlap
+The girl is slicing an onion.,A woman is chopping an onion into small pieces.,2.2,3.7641149759292603,1.56411497592926,low_overlap
+A small red and gray bird perched amongst the bare branches of a tree.,A red and brown bird is perched on branches.,2.25,4.154307246208191,1.904307246208191,other
+The lamb is looking at the camera.,A cat looking at the camera.,0.8,2.273850291967392,1.473850291967392,other
+The udders of a dairy cow that is standing in a pasture near a large building.,The black and brown cow is standing on the green grass.,2.0,3.007959723472595,1.0079597234725952,other
+A black train moves down the tracks.,A mostly black train on a track.,3.0,4.2128026485443115,1.2128026485443115,other
+A smiling woman holding a small baby.,Two smiling women holding a baby.,3.0,4.2415159940719604,1.2415159940719604,other
+Two airplanes in the sky.,A plane in the sky.,2.4,3.631531000137329,1.2315310001373292,other
+A bicycle in front of some ruins.,A pink bicycle is in front of a building.,2.2,3.2757604122161865,1.0757604122161863,other
+Two white dogs are swimming in the water.,The birds are swimming in the water.,0.8,2.6465344429016113,1.8465344429016113,other
+Black domestic cat lying on brown table.,A grey cat laying on a dining table.,1.4,3.740410804748535,2.3404108047485352,other
+Young baby girl sitting on table.,A woman with a smiling baby sitting on the table.,1.6,3.428083062171936,1.828083062171936,other
+A black and white cat is sitting on a brown chair looking up.,Black and white cat sitting on wood chair looking up.,3.6,4.673898816108704,1.0738988161087035,other
+A laptop computer and a computer monitor.,A laptop and a PC at a workstation.,2.6,3.852750062942505,1.2527500629425048,other
+A white cat laying on an office chair.,A white cat laying on a sheet.,2.4,3.678525686264038,1.2785256862640382,other
+Dark colored dog standing in grassy field.,A grey dog standing in a grassy field.,3.2,4.289734065532684,1.0897340655326841,other
+Two brown horses standing in grassy field.,Brown horse standing in middle of grassy field.,3.0,4.244910776615143,1.2449107766151428,other
+A woman is laying down on the floor and holding a baby up above her.,A man is laying on the floor holding a baby up above him.,2.2,4.037734866142273,1.8377348661422728,other
+Depressed woman sitting on couch.,Older woman holding newborn baby.,0.0,1.0316184908151627,1.0316184908151627,low_overlap
+German Shephard jumping through black hoop while people watch,A dog jumps through a hoop.,3.2,2.044973075389862,1.1550269246101381,low_overlap
+two young girls hug each other in the grass.,two young girls holding each other on the grassy ground,4.6,3.5945135354995728,1.005486464500427,other
+Two dogs fighting in the snow.,Two dogs standing in the snow.,2.4,3.9998820424079895,1.5998820424079896,other
+The girl with the blue bucket splashes beneath the pier.,The girl in the ski jacket is walking near the buildings.,0.4,1.4387242496013641,1.0387242496013642,low_overlap
+A black dog is running after a white dog in the snow.,Black dog chasing brown dog through snow,1.8,3.4626740217208862,1.6626740217208862,low_overlap
+Two little girls in pink are dancing.,Two ladies jogging on a path near the waterfront.,0.0,1.211588829755783,1.211588829755783,low_overlap
+Two people walking along the shore at sunset.,Two people walking along the beach at sunset towarn a group of people.,3.0,4.160431623458862,1.1604316234588623,other
+A boy skateboards down the railing of some graffiti stairs,A skateboarder is jumping over an obstacle in front of a white house.,2.8,1.730886846780777,1.0691131532192228,low_overlap
+Two girls walking in the ocean.,two girls walking in the street,1.8,3.2711565494537354,1.4711565494537353,other
+A black dog running through the snow.,A black dog runs through the water.,2.4,3.4161046147346497,1.0161046147346497,negation_mismatch
+A group of people are in the water.,A group of people ride in a race,0.6,2.1162359416484833,1.5162359416484832,other
+Black and white dog running through water.,A tan and white dog runs through water.,3.0,4.169211983680725,1.169211983680725,other
+A dog jogs through the grass.,a dog trots through the grass.,5.0,3.4440308809280396,1.5559691190719604,other
+Group of little girls and a dog standing on the road.,a group of people white water rafting in a blue raft.,1.4,0.11684952303767204,1.2831504769623279,other
+A man in a grey suit kneels in front of a woman in a white dress.,A woman in red with a beer followed by a man in white.,0.0,1.7633269727230072,1.7633269727230072,other
+A hockey player looks intently downward.,A hockey player during a game.,2.0,3.7842008471488953,1.7842008471488953,other
+A man is skating down a set of stairs.,The man is skiing down a snowy hill.,0.8,1.9837293028831482,1.1837293028831481,negation_mismatch
+A skateboarder jumps off the stairs.,A dog jumps off the stairs.,0.8,2.2742386162281036,1.4742386162281036,other
+Our current vehicles will be in museums when everyone has their own aircraft.,The car needs to some work,0.2,1.256001889705658,1.056001889705658,low_overlap
+A man is carrying a canoe with a dog.,A dog is carrying a man in a canoe.,1.8,4.754221737384796,2.9542217373847963,other
+The people are leaving the airplane.,The people are entering the plane.,2.2,3.400992751121521,1.2009927511215208,other
+a girl with vases in the background inside her house,The girl is standing as the other girl with glasses works on her hand painting.,0.2,1.556628942489624,1.356628942489624,other
+The four women are practicing for a upcoming match.,The women are in a play,1.2,2.3069214820861816,1.1069214820861817,other
+There is a young girl.,There is a young boy with the woman.,1.0,2.0302271842956543,1.0302271842956543,other
+A man has his skis ready for the field to get iced out,A man on a boat getting ready to pull in his net to see what he caught.,0.4,1.6259902715682983,1.2259902715682984,other
+A musician is smearing jam on his white guitar at a concert.,Trombonist playing the her instrument in a band for a parade.,0.4,1.5640835464000702,1.1640835464000703,low_overlap
+A player bounces a ball.,A player catching a ball.,1.6,3.502015173435211,1.902015173435211,other
+A smiling Caucasian male wearing a blue and black striped shirt it about to take a photograph.,A man in a white shirt and black pants is smiling.,1.6,3.1867724657058716,1.5867724657058715,other
+A little girl and boy are reading books.,An older child is playing with a doll while gazing out the window.,0.2,1.2069907784461975,1.0069907784461976,low_overlap
+Men are fighting after a basketball game.,The men are playing a game of basketball.,2.2,3.7140369415283203,1.5140369415283201,other
+They are preparing for a performance at school.,Two medical professionals in green look on at something.,0.0,1.001371219754219,1.001371219754219,low_overlap
+Black and white image of a wave crashing in the ocean.,a small black dog in the ocean with some rocks in the background,0.6,2.13889017701149,1.5388901770114898,other
+A boy does a skateboard trick on the stairs downtown.,a boy is running on the sidewalk,0.6,2.081148624420166,1.481148624420166,other
+A man is throwing a penny into a fountain.,A little boy is throwing a man in water.,0.6,2.2539320588111877,1.6539320588111877,other
+Friends walk into a building,a man walks along walkway to the store,0.4,1.4351734519004822,1.0351734519004823,low_overlap
+A girl in water without goggles or a swimming cap.,"A girl in water, with goggles and swimming cap.",3.0,4.074726700782776,1.0747267007827759,other
+The child is the woman's kid.,There is a boy and a girl.,0.8,2.12405264377594,1.32405264377594,low_overlap
+Two boys in black swimming trunks are holding another boy by his arms and legs on a beach.,Man in white shirt flipping young boy in the water with four other boys surrounding them.,1.4,2.4946171045303345,1.0946171045303346,negation_mismatch
+The gate is blue.,The gate is yellow.,1.6,3.3683323860168457,1.7683323860168456,other
+A dog walks along a beach with breaking waves.,A boy with an oar walks out of the surf and onto a beach.,1.0,2.019854485988617,1.019854485988617,other
+"Apart from admission (which normally should not be related to age), there is something that's related to your question.","Age is not a PhD admission facor in the continental Europe, too.",1.0,2.789977192878723,1.7899771928787231,other
+"If you don't want to pay for Adobe Acrobat Pro, as @schultem mentions, LaTeX can do this with embedded hyperlinks.","If you don't mind hosting your files online, SlideShare is a good solution.",0.8,1.8091320991516113,1.0091320991516113,other
+I don't think there are likely to be any standards that address this issue specifically.,"You're going to find answers all over the map for this one (i.e., there probably aren't ""standards"").",2.4,3.5079601407051086,1.1079601407051087,other
+My answer would be depending on which GRE are you referring to?,The problem I see with the GREs is that the scoring range is highly compressed.,1.0,2.866833508014679,1.866833508014679,low_overlap
+"If you have access to it, you can very easily do that with Thomson Reuters’ Web of Science portal.","You can have a look at the arXiv cultoromics website at http://arxiv.culturomics.org, which however searches in articles on the arXiv.",0.2,1.4318151772022247,1.2318151772022248,other
+In general there are a number of different distinct workflows that lead to a poster.,"For completeness, Apple's Pages has quite a few nice poster layouts.",0.6,2.2404341399669647,1.6404341399669646,low_overlap
+It is perfectly okay to ask for the figure knowing well that the other person may not give.,"You can always ask, then it is the choice of the author to accept or not.",3.6,2.423933744430542,1.176066255569458,other
+"I agree with Seteropere completely, ""Network Science"" is a very broad subject.",I would say you are approaching it in the wrong way.,0.0,1.1107394099235535,1.1107394099235535,low_overlap
+It indeed appears the Andromeda galaxy (M31) and The Milky Way (MW) are en route to a collision.,"In a few billion years, the Milky Way and Andromeda will collide.",4.4,3.144018054008484,1.2559819459915165,other
+According to this website the peak visible magnitude will be about 10.5 around February 2nd.,"The AAVSO data seems to indicate that it might have already peaked, at around 10.5 (visual).",3.6,2.5436627864837646,1.0563372135162354,other
+All of these effects are related to the 11 year solar cycle.,I will be specific to answering the part regarding the prediction of solar flares.,0.8,2.1929067373275757,1.3929067373275756,other
+Let us assume the data for a globular cluster to be equivalent to that of M13.,Globular clusters occupy an interesting place in the spectrum of composite stellar systems.,1.6,2.907480001449585,1.3074800014495849,other
+A method used to calculate the distance between stars is 3 Dimensional trigonometry.,You only need two-dimensional trigonometry if you know the distances to the two stars and their angular separation.,2.0,3.731503486633301,1.7315034866333008,other
+"Stars form in star-formation regions, which itself develop from molecular clouds.",It may be possible for a solar system like ours to exist outside of a galaxy.,0.6,1.6035954654216766,1.0035954654216765,low_overlap
+Here is a lexical decision task I wrote years ago using PHP and Javascript (github link).,"Just for reference, I ended up writing simple web-based lexical decision task software myself.",2.6,3.8866376876831055,1.2866376876831054,other
+I've found an additional concept that may be related to the original question: prototype theory.,"According to current models of human concept learning, the answer to your question is both.",0.0,1.72536700963974,1.72536700963974,other
+"In addition to oil, make sure the grill is nice and hot before you start cooking.","I'd been using paper towels to oil the grill, and I just discovered that newspapers work a lot better.",1.6,2.973790764808655,1.3737907648086547,other
+"Break the bulb into cloves, breaking off the bottom and the dry stick that goes up the middle.",lay down a knife horizontaly on the cloves and hit it.,1.6,2.67364501953125,1.07364501953125,low_overlap
+I  believe one cannot taste the difference between minced(canned) and fresh garlic once it is cooked.,"In my experience, fresh garlic is great for when you want texture, or to slow down the flavour infusion.",1.8,3.2727468013763428,1.4727468013763427,negation_mismatch
+"The recipe I work from has you put the meat in the freezer, then pan sear it.","Starting with a whole chilled piece of meat, I quickly pour boiling water over all the outside surface.",1.4,2.7930712699890137,1.3930712699890138,low_overlap
+"They don't taste identical at all, and even more important, they don't smell the same.",Black pepper and white pepper are differing preparations of the fruit of the Piper nigrum plant.,2.6,1.1806394159793854,1.4193605840206147,low_overlap
+This depends on the shelf life of the cultivar of tomato you purchased.,"Tomatoes will last longer if kept in the fridge, but I actually recommend against keeping them there.",2.0,3.2238933444023132,1.2238933444023132,low_overlap
+"Copper can be useful for certain tasks due to the its metallic properties (heats quickly, distributes heat evenly, etc.","Probably subjective, but ... Good clad stainless steel will give you much better cooking performance per dollar than copper.",1.4,3.032342791557312,1.632342791557312,low_overlap
+"She obviously has a legit excuse, although she could have been more responsible and ""have"" told you in advance.",The first have covers both been more responsible and told you in that sentence.,0.4,1.7345337569713593,1.3345337569713593,other
+In some cases the implication could even be that Tom does not love her.,There is no implication about Tom whatsoever in such a sentence.,1.8,3.7791454792022705,1.9791454792022705,negation_mismatch
+"I see some references to status as uncountable as well, but that doesn't make much sense to me.","There are some cases ""status"" may be accounted of countable.",2.6,3.9104074239730835,1.3104074239730834,low_overlap
+"In standard English, I think ""don't got"" has the same register as ""ain't"".",I'd say the expression I don't got... is generally rare in spoken AmE.,2.2,3.4654659032821655,1.2654659032821653,other
+There are a lot of push up variations you can do and they all stress different muscle systems.,There are several different pushup variations out there and most of them provide a unique advantage.,4.2,3.1396907567977905,1.0603092432022097,other
+You definitely do NOT want to be supporting your weight with your arms on the bike for normal riding.,"No, don't support your weight on your arms Your hands simply aren't really made for supporting all that weight.",4.2,3.1602752208709717,1.0397247791290285,negation_mismatch
+"Yes, you should stretch before running, but not the sit down and reach kind of stretching.",Neuromuscular Activation and Dynamic Stretching Here is an excellent video on a dynamic stretching routine for running.,1.8,3.0002638697624207,1.2002638697624206,negation_mismatch
+"I feel your pain - I absolutely pour with sweat with any vigorous exercise, even in cool conditions.","Sweat rate is sweat rate, you can't really control it.",1.0,2.5680792331695557,1.5680792331695557,low_overlap
+Pick them as soon as they are as ripe as you want them.,I live in Delaware and have already harvested my jalapeno and chili peppers.,0.6,1.78874671459198,1.18874671459198,negation_mismatch
+"Simple answer is yes, flower shoots on lettuce is a sure sign of bolting.",It appears as though it has likely started to bolt.,3.2,2.1772053837776184,1.0227946162223818,low_overlap
+This looks a lot like an invitation to a No True Scottsman argument.,"I concur with @T.E.D; the question is a ""no True Scotsman"" bar bet.",3.8,1.9712650775909424,1.8287349224090574,low_overlap
+Some villages had histories and thus names going back to Ancient Roman times.,"Many towns and villages took their name from the ruling family, the owners of the village.",1.2,2.941117286682129,1.741117286682129,low_overlap
+Nearly all countries grew quickly in the 1950s and 1960s for pretty much the same reasons.,The USSR growth rate during the 50's was not exceptionally high.,1.0,2.1405217051506042,1.1405217051506042,negation_mismatch
+To no extent at all is the wars in the middle east caused by trade making the area heterogeneous.,"They had a treaty beginning in 1941, after a few skirmishes along the area in question.",0.6,1.6979052126407623,1.0979052126407622,negation_mismatch
+"By the time that Qin had totally collapsed, Xiang Yu was China's hegemon.","The Han Dynasty came after the Qin Dyansty, after the government under Shi Huang Di collapsed.",2.0,3.266964852809906,1.266964852809906,low_overlap
+http://en.wikipedia.org/wiki/History_of_Delhi#Early_history shows that the city was called Delhi (or Dilli) at least since the 12/13th century.,"I am not exactly sure but I remember the media (in India) addressing Delhi as ""HASTHINA"".",1.2,2.461230158805847,1.2612301588058472,negation_mismatch
+"Yes, this is true and yes, in most cases indefinite articles indeed developed from numerals, as @MGN already said.","Indefinite articles developed from numerals, and the definite articles developed from demonstratives.",2.6,3.6814874410629272,1.0814874410629272,other
+In some nowadays Indo-European languages you can still see rests of base-20 numeral systems.,"Modern Englishes, and many other well-known languages, use base 10 (ie decimal) systems of numerals.",2.2,3.2339736819267273,1.0339736819267271,low_overlap
+"In English, certainly the most common use of do is Do-Support.","In traditional grammar, the word doing is a participle in all your examples.",0.6,2.703232169151306,2.103232169151306,other
+A part of the question thusfar unattended is whether the concept of phoneme has always been contentious.,"""Phoneme"" is a theoretical construct which probably can't go away.",1.6,2.928442358970642,1.328442358970642,low_overlap
+"If you arecomming from the non-linguistics environment, the best book is to start with Is Fromkin, Introduction to language.",This is what they recommend at Oxford as introductory textbooks to students starting a Masters' in Linguistics.,1.4,3.3064958453178406,1.9064958453178407,negation_mismatch
+From what I'm seeing it's generally accepted that most English speakers have a vocabulary size of 15000 to 20000 words.,According to a statistical estimation I know roughly 7000 words in English.,1.4,3.6696991324424744,2.2696991324424745,negation_mismatch
+A few points to add here: Coyotes are not know to be aggressive towards humans.,In general they are not considered dangerous because they rarely attack humans.,3.2,1.6072158515453339,1.5927841484546663,other
+An embolism in a medical context refers to any large moving mass or defect in the blood stream.,Here is an interesting article on wikipedia to give overview of pressure related injuries.,0.0,1.1478053033351898,1.1478053033351898,low_overlap
+It would be unusual for a snake to attack a stationary person.,"I'm no herpetologist, but in my experience, snakes are in the ""you don't bug me, I won't bug you"" category.",4.2,2.7733981609344482,1.426601839065552,negation_mismatch
+"If you wear a bear bell on your backpack, your fellow hikers will kill you for being annoying.","The above advice is quite good, just wanted to add on thing to consider regarding food in bear country.",0.6,1.7281317710876465,1.1281317710876464,negation_mismatch
+He is taking the diaper off because he is uncomfortable.,You can try putting the diaper on backwards which may only work for a little while.,1.8,3.027166724205017,1.227166724205017,low_overlap
+I know of no firm evidence indicating that baby talk is either helpful or detrimental in language development.,"Baby talk, when used correctly is beneficial to speech development.",2.0,3.8738614320755005,1.8738614320755005,negation_mismatch
+I have never read anything that said teethers were bad--where did you read that?,We used a clean cloth or baby sock wrapped around an ice cube with our kids and grandkids.,1.4,0.32055623829364777,1.0794437617063521,negation_mismatch
+My son didn't become potty trained until about his 4th birthday.,Here are some things that worked with my son who started toilet training around 2.5 years.,1.6,3.2636070251464844,1.6636070251464843,low_overlap
+"Show her how much fun splashing is - that's what we did, and made a game of it.",You can put her toys near her or give he toys to her.,0.8,1.8418850004673004,1.0418850004673004,low_overlap
+"It is possible, but it will have to be a docile female betta and a bigish tank.",We tried putting a male betta in a community tank once.,2.4,3.4082093834877014,1.0082093834877015,low_overlap
+How could be you so sure that the fish died a natural death.,"In my 200 L fresh water tank, which is an aggressive tank, fish occasionally get harassed to death.",1.4,2.511085867881775,1.111085867881775,low_overlap
+"First, double-check the dog's body language to make sure that it is truly aggressive.","First, you should realize that this is not you or your dog's problem.",1.6,2.897922396659851,1.297922396659851,negation_mismatch
+My guess is that means your cat only marginally likes the food you're feeding him.,Some researchers believe domestic cats never really mentally grow up completely and they always look at you like their mom.,0.6,1.7331358790397644,1.1331358790397643,negation_mismatch
+Try switching to rats; weanling rats if you need something smaller.,"As mentioned in previous answers, rats and gerbils can be offered instead of mice or in a rotation with mice.",3.4,2.1315518021583557,1.2684481978416442,low_overlap
+The biggest reason I can think of is that you're taking away a defence mechanism for the cat.,"Cats don't usually like to have their paws held, touched, or anything like that.",1.6,2.63387531042099,1.03387531042099,low_overlap
+"The difference between ""necessary"" and ""sufficient"" is the direction of the logical arrow.","sufficient is an upper bound, necessary is a lower bound.",2.0,3.618384003639221,1.6183840036392212,low_overlap
+The Question is (from Hinduism); do you exist because of pregnancy?,The least that can be said is that we must be born with the ability and 'knowledge' to learn.,1.8,0.6156544759869576,1.1843455240130425,negation_mismatch
+Not all negative claims can be validly reformulated into positive claims.,I don't think the burden of proof is on positive or negative versions.,1.0,3.0668270587921143,2.0668270587921143,negation_mismatch
+"As I understand it, nothing that can be changed, or broken down into smaller parts is inherently real.",Our interactions are merely depends on where we put our perception.,0.4,1.483575850725174,1.083575850725174,negation_mismatch
+Fast Picture Viewer has an extensive pack for the low price of $9.99 and it appears to cover them all.,Fast Picture Viewer is $9.99 and works just fine on 64-bit Windows 7 (I'm using it myself).,3.8,1.7471013963222504,2.0528986036777495,other
+I have found there is no single best way to increase size.,There are a very wide variety of solutions for resizing and sharpening images for use on the web.,2.6,1.542254388332367,1.0577456116676331,negation_mismatch
+A class 6 card in theory should be more than enough bandwidth for HD (1080) video for the 550D (48 MBit).,"Some cards are too slow to accept an HD stream, so you need one that is fast enough.",1.6,2.745680809020996,1.145680809020996,long_sentence
+According to Shia Muslims specially Iran state and Hezbollah a country called Israel does not exist.,"As with the definition of Palestine, the definition of Israel varies depending on whom you ask.",3.2,2.171885222196579,1.0281147778034212,negation_mismatch
+Eclipse Below are list of eclipse shortcuts which I use almost everyday.,"To train yourself to use keyboard shortcuts, unplug your mouse for a few days.",0.6,1.9310714304447174,1.3310714304447173,low_overlap
+I'd start by reading David Allen's book: Getting Things Done.,I'm considering spending the $48 per month on the GTD (Getting things done) system advertised by David Allen.,3.0,1.1011897027492523,1.8988102972507477,other
+"Currently I've got a fairly close to purely digital GTD setup, although this could do with some refinements and tweaks.",My GTD system is effectively 100 percent electronic--as described in detail here.,3.4,2.3289307951927185,1.0710692048072814,low_overlap
+I voted for the dyson sphere as being the biggest realistic.,"Allen Steele's book Hex describes a Dyson sphere, but made of hexagons, 1000 miles (K?",0.4,1.8848028779029846,1.4848028779029847,low_overlap
+This idea has been around since the beginning of myth and storytelling.,The science behind superheroes might shed some light on this topic.,0.2,1.415133774280548,1.2151337742805481,low_overlap
+"We only used Fartlek as a fitness measurement, and as a bit of fun.",Fartlek is not more effective than any proper interval training - just more fun!,2.6,3.6856430768966675,1.0856430768966674,negation_mismatch
+If the number of fours hit by two teams are also equal then both teams will get 1 point each.,This is the rule if the runs scored by two teams in Super Over is equal...,0.6,2.427220046520233,1.827220046520233,other
+"No, there is no specific criteria for giving the man of the match award.","As per the rules, MoM award is decide by the commentry pannel.",3.0,1.7383575439453125,1.2616424560546875,negation_mismatch
+"Glad to hear you've started playing hockey, its a great sport!",A general rule of thumb is every 5-6 hours of skating.,0.4,1.4774905145168304,1.0774905145168305,low_overlap
+"I'd suggest you find a bank in your local country, and consider opening a Euro denominated bank account with them.",I am not sure if you can open a bank account in France if you are not a resident.,1.6,2.697764039039612,1.0977640390396117,negation_mismatch
+My experience is that a normal taxi is always cheaper.,When using a regular taxi make sure it's with a reputable company or you agree upon the rate upfront.,2.0,3.2098808884620667,1.2098808884620667,negation_mismatch
+I had a similar issue but in what seemed to be a simpler situation.,I'm actually about to do the same thing when transferring at London Heathrow.,0.0,1.2795087695121765,1.2795087695121765,low_overlap
+"Kyoto, at least does, as described here: JR Kyoto Station.",Coin lockers are a feature of most stations in Japan.,0.4,1.8334347009658813,1.4334347009658814,low_overlap
+"Generally, almost wherever I go, I find it's easiest to get money out of the ATM.","There are plenty of ATMs and Exchanges all around the city, especially in city center.",1.8,2.827603816986084,1.027603816986084,low_overlap
+I think the dual goals have a lot to do with the purpose of the antagonist.,I think it's going to depend on what the reasons are.,2.6,1.1380402743816376,1.4619597256183625,other
+"Yes, this is OK, as it allows you to emphasise certain things, that you want the readers to notice.",I believe this is perfectly acceptable and does a good job of emphasising your point.,4.0,2.962307929992676,1.0376920700073242,negation_mismatch
+David Weber's The War God's Own has some lengthy travel scenes in it which he does quite well.,One thing that should be used as a seasoning in Odyssey tales is the idea of the false destination.,0.2,1.2529754638671875,1.0529754638671875,low_overlap
+"One thing you seem to be forgetting regarding myths, is they are extremely prevalent stories.","I noticed you said ""movie critics"" enjoy mythological references in a film, but do audiences?",1.2,2.271728068590164,1.0717280685901642,negation_mismatch
+Webster's New World Rhyming Dictionary: Clement Wood's Updated This is the rhyming dictionary I turn to first.,"http://www.rhymezone.com/ You just type in a word, then select one of the following.",1.2,2.4499288201332092,1.2499288201332093,low_overlap
+"RT Jones analyst Juli Niemann said Grant was ""the one we were all pulling for.","He has a very good reputation,"" RT Jones analyst Juli Niemann said of Grant.",1.4,2.9407358169555664,1.5407358169555665,other
+Executive recruiters say that finding a seasoned chief merchandising officer will perhaps be the trickiest of all hires because there is such a dearth of good ones.,Executive recruiters say that finding a seasoned chief merchandising officer perhaps will be the trickiest of all hires.,3.75,4.802921414375305,1.0529214143753052,long_sentence
+"The technology-laced Nasdaq Composite Index <.IXIC> jumped 26 points, or 1.78 percent, to 1,516.","The broad Standard & Poor's 500 Index .SPX was up 8.79 points, or 0.96 percent, at 929.06.",0.8,-0.3979427367448807,1.1979427367448807,negation_mismatch
+"""I started crying and yelling at him, 'What do you mean, what are you saying, why did you lie to me?'""","Gulping for air, I started crying and yelling at him, 'What do you mean?",3.8,2.453012615442276,1.3469873845577238,long_sentence
+The company claims it's the largest single Apple VAR Xserve sale to date.,The company claimed it is the largest sale of Xserves by an Apple retailer.,5.0,3.866305947303772,1.133694052696228,other
+North American markets finished mixed in directionless trading Monday as earnings season begins to slow and economic indicators move into the spotlight.,"North American markets grabbed early gains Monday morning, as earnings season begins to slow and economic indicators take the spotlight.",3.8,2.6956000924110413,1.1043999075889586,long_sentence
+"After 9/11, Connolly said, agents spent thousands of hours investigating al-Bayoumi.",Connolly said FBI agents in San Diego and abroad spent thousands of hours investigating al-Bayoumi.,3.0,4.257189631462097,1.2571896314620972,other
+PG&E Corp. shares were up 39 cents or 2.6 percent at $15.59 on the New York Stock Exchange on Tuesday.,PG&E's shares gained 24 cents to $15.44 during Tuesday's trading on the New York Stock Exchange.,2.2,3.9237844944000244,1.7237844944000242,other
+YES filed suit yesterday in the Supreme Court of New York County in Manhattan.,The suit was filed in the Supreme Court of New York County.,3.0,4.213460087776184,1.213460087776184,other
+"Deaths in rollover crashes accounted for 82 percent of the number of traffic deaths in 2002, the agency says.","Fatalities in rollover crashes accounted for 82 percent of the increase in 2002, NHTSA said.",3.25,4.525706470012665,1.2757064700126648,other
+"The pound also made progress against the dollar, reached fresh three-year highs at $1.6789.","The British pound flexed its muscle against the dollar, last up 1 percent at $1.6672.",3.25,1.718149185180664,1.531850814819336,other
+Who will succeed Mr. O'Neill at Hyundai is not clear.,There is no clear successor for Mr. O'Neill at Hyundai.,5.0,3.6716532707214355,1.3283467292785645,negation_mismatch
+"Lee Janzen, who was tied atop the leaderboard with five holes left, finished with a 68 and tied for sixth.","Lee Janzen, tied atop the leaderboard with five holes left, finished with a 68 to tie for sixth with Bob Crane (67) at 269.",3.25,4.419483542442322,1.1694835424423218,long_sentence
+"The world's largest software company said it recognized the difficulty the multiple patches posed for companies, and set out to make it easier for them to apply the updates.",The world's largest software company said it recognized the difficulty the multiple patches posed for companies trying to apply them.,3.5,4.719518423080444,1.2195184230804443,long_sentence
+"The broad Standard & Poor's 500 Index <.SPX> was up 8.79 points, or 0.96 percent, at 929.06.","The technology-laced Nasdaq Composite Index <.IXIC> jumped 26 points, or 1.78 percent, to 1,516.",1.0,-0.3601629287004471,1.360162928700447,negation_mismatch
+"Agnew said Pinellas began baiting when rabies cases ""went from zero to 30"" in 1995.","Still, Pinellas rabies cases fell sharply to 17 in 1996 and 3 in 1997, Agnew said.",1.75,3.125992715358734,1.3759927153587341,other
+"Marc Garber, Whitley's attorney, had a different view.","Whitley's attorney, Marc Garber, called the ruling ""a huge victory.""",1.75,3.707067370414734,1.9570673704147339,other
+"Just five months ago, Dean committed to accepting taxpayer money and vowed to attack any Democrat who didnt.","Just five months ago, Dean committed to accepting taxpayer money and the spending limits that come with it and vowed to attack any Democrat who didnt.",3.6,4.792790412902832,1.192790412902832,long_sentence
+The panel ordered the Commerce Department to issue revised figures for the duties within 60 days.,It called on the Commerce Department to respond within 60 days.,2.6,3.671312630176544,1.071312630176544,other
+"Gold's rise pulled other precious metals higher, shunting silver to $4.81/83 an ounce from $4.77/79 last quoted in New York.","Gold's bounce pulled other precious metals higher, sending silver to $4.83/85 an ounce from $4.80/82 last quoted in New York.",3.25,4.271753430366516,1.0217534303665161,other
+"Shares of LendingTree soared $5.99, or 40.1 percent, to $20.68 in afternoon trading on the Nasdaq Stock Market.","Shares of LendingTree rose $6.21, or 42 percent, to $20.90 after hitting $21.36 earlier.",2.2,3.7474429607391357,1.5474429607391356,negation_mismatch
+"""What they have done is a thinly veiled attempt to do an end run around the Constitution,"" she said.","The church's lawyer, Shirley Phelps-Roper, was clear: ""What they have done is a thinly veiled attempt to do an end run around the constitution,"" she said.",2.6,3.786771297454834,1.186771297454834,long_sentence
+Higher courts have ruled that the tablets broke the constitutional separation of church and state.,The federal courts have ruled that the monument violates the constitutional ban against state-established religion.,4.0,2.050371617078781,1.9496283829212189,other
+"In two weeks, he'll probably send out Peace Rules in the Preakness.",Frankel said Peace Rules will run in the Preakness Stakes on May 17.,3.6,1.9557464122772217,1.6442535877227784,other
+"Nationally, the federal Centers for Disease Control and Prevention recorded 4,156 cases of West Nile, including 284 deaths.","There were 293 human cases of West Nile in Indiana in 2002, including 11 deaths statewide.",1.667,3.482603430747986,1.8156034307479858,other
+"Mr. Heatley, who suffered a broken jaw and torn knee ligaments, faces several charges.",Heatley underwent surgery Saturday for a broken jaw and an MRI found two torn ligaments in his right knee.,2.25,3.3565855026245117,1.1065855026245117,other
+"""IT is the only vehicle on which established economies will be able to compete,"" Barrett said.","""IT is the only vehicle on which established economies will be able to compete"" with fast-growing economies such as China and India, Barrett said.",3.25,4.3414342403411865,1.0914342403411865,long_sentence
+"On Monday, as first reported by CNET News.com, the RIAA withdrew a DMCA notice to Penn State University's astronomy and astrophysics department.","Last Thursday, the RIAA sent a stiff copyright warning to Penn State's department of astronomy and astrophysics.",1.75,2.932952046394348,1.1829520463943481,negation_mismatch
+"U.S. forces struck dozens of targets on Monday, killing six guerrillas and arresting 21 others, the military said.","U.S. forces struck dozens of targets on Monday, killing six guerrillas and arresting 99 others during 1,729 patrols and 25 raids conducted over 24 hours.",3.0,4.218389987945557,1.2183899879455566,long_sentence
+As part of a restructuring Peregrine sold its Remedy help desk software unit last year to BMC Software Inc.,Peregrine sold its Remedy business unit to BMC Software in November for $355 million.,3.0,4.061909317970276,1.0619093179702759,negation_mismatch
+"Shares in BA were down 1.5 percent at 168 pence by 1420 GMT, off a low of 164p, in a slightly stronger overall London market.","Shares in BA were down three percent at 165-1/4 pence by 0933 GMT, off a low of 164 pence, in a stronger market.",2.4,3.999747335910797,1.5997473359107972,long_sentence
+"Families stuck on the highway remained in their cars, and used their cell phones to call home.","Families stuck on the highway were being urged to remain in their cars, and to use their cell phones only in case of emergency.",3.0,4.049640893936157,1.0496408939361572,long_sentence
+"For the entire season, the average five-day forecast track error was 259 miles, Franklin said.","""The average track error for the five-day (forecast) is 323 nautical miles.",1.75,3.6506152153015137,1.9006152153015137,other
+"""City-grown pollution, and ozone in particular, is tougher on country trees,"" says Cornell University ecologist Jillian Gregg.","""I know this sounds counterintuitive, but it's true: City-grown pollution -- and ozone in particular -- is tougher on country trees,"" U.S. ecologist Jillian Gregg said.",3.6,4.694618880748749,1.0946188807487487,negation_mismatch
+"The Dow Jones Industrial Average fell 0.7 per cent to 9,547.43 while the S&P 500 was 0.8 per cent weaker at 1,025.79.","The Dow Jones industrial average <.DJI> fell 44 points, or 0.46 percent, to 9,568.",1.5,3.0965134501457214,1.5965134501457214,long_sentence
+Board Chancellor Robert Bennett declined to comment on personnel matters Tuesday.,"Mr. Mills declined to comment yesterday, saying that he never discussed personnel matters.",1.75,3.076116442680359,1.3261164426803589,negation_mismatch
+"Shares of Halliburton fell 71 cents, or 3 percent, to close at $21.59 yesterday on the New York Stock Exchange.","Halliburton shares fell 54 cents, or 2.4 percent, to $21.76 a share in midday New York Stock Exchange trade.",2.4,3.6992135643959045,1.2992135643959046,other
+John Hickenlooper had 65 percent of the vote to 35 percent for City Auditor Don Mares.,"Hickenlooper clobbered city Auditor Don Mares, 46, in the Tuesday runoff.",2.4,3.54170024394989,1.1417002439498902,negation_mismatch
+The company said it would cut the wholesale price of most top-line CDs to $9.09 from $12.02.,The company also said it would cut wholesale prices on cassettes and change the suggested retail price to $8.98.,1.6,2.9216569662094116,1.3216569662094115,other
+"In September, Hewlett-Packard signed a development and marketing deal with the company.",Four months later it signed a joint marketing agreement with Hewlett-Packard Co.,2.75,3.860008716583252,1.110008716583252,other
+"On Friday, the Concorde started up around sunrise and seemed to launch itself straight out of the rising sun.","Yesterday, the Concorde seemed to launch itself straight out of the rising sun.",3.4,4.63065505027771,1.23065505027771,other
+Kaichen appeared Wednesday in federal court on two bank robbery charges.,"She appeared in federal court Wednesday, but did not enter a plea.",3.0,1.728123426437378,1.271876573562622,negation_mismatch
+Crews worked to install a new culvert and prepare the highway so motorists could use the eastbound lanes for travel as storm clouds threatened to dump more rain.,Crews worked to install a new culvert and repave the highway so motorists could use the eastbound lanes for travel.,3.333,4.3598973751068115,1.0268973751068113,long_sentence
+"The commission dropped charges that Patton improperly appointed Conner to the Kentucky Lottery Board and that he improperly appointed Conner's then-husband, Seth, to the Agriculture Development Board.","Patton also appointed Conner to the Kentucky Lottery Board and appointed Seth Conner to the Agriculture Development Board, the commission says.",2.5,3.9683175086975098,1.4683175086975098,long_sentence
+Military plane crashes in south France: authorities,"Military plane crashes in southeastern Turkey, 1 dead",1.0,2.2282853722572327,1.2282853722572327,other
+Saudi gas truck blast kills at least 22,Nigeria church blast kills at least 12,0.6,1.9381225109100342,1.338122510910034,other
+Greece votes in crucial election,Greece looks set for repeat election,1.8,3.518679141998291,1.718679141998291,low_overlap
+1 person killed in sectarian clashes in Lebanon,Nine killed in Syrian-linked clashes in Lebanon,1.4,2.411857843399048,1.011857843399048,other
+Colorado shooting suspect was in therapy,Lawyers: Colo. shooting suspect is mentally ill,4.2,1.9954794645309448,2.2045205354690554,low_overlap
+Israeli Leader Puts Off Evicting Settlers From Hebron House,Israeli army orders settlers out of Hebron house,1.6,3.9811432361602783,2.3811432361602782,other
+Japan falls silent to mark 311 tragedy,Japan thanks Taiwan for quake aid,0.4,1.4702194929122925,1.0702194929122926,low_overlap
+Israeli PM makes case on Iran to US voters,Israel blames Iran for attacks on its diplomats,1.2,2.598821222782135,1.398821222782135,low_overlap
+Five dead in Pakistan suicide blast,Over 120 dead in Pakistan factory blaze,0.6,1.9932883977890015,1.3932883977890014,other
+"Wigan 3-2 Wolves: Match report, pictures & video highlights","Arsenal 0-0 Chelsea: Match report, pictures & video highlights",1.2,2.4193809926509857,1.2193809926509858,other
+Breivik complains of 'ridicule',Breivik: Jail term 'ridiculous',1.8,2.9009607434272766,1.1009607434272766,low_overlap
+Sly Stallone's Sone Sage Found Dead in LA,Sylvester Stallone's Son Found Dead At Home,4.2,2.891600728034973,1.308399271965027,other
+"Romney, Obama clash on tax, economy in first debate",Obama and Romney take stage for first debate,2.2,3.5289520025253296,1.3289520025253294,negation_mismatch
+Remarks by the President at the White House Science Fair,The Presidential Planner - The White House Science Fair,2.8,3.903018832206726,1.1030188322067263,other
+Suicide bomber hits funeral in Iraq,Suicide bomber strikes in Syria,1.8,3.3353906869888306,1.5353906869888305,other
+2 dead in Bangladesh clashes over Jamaat leader’s execution,Bangladesh Islamist leader executed,2.0,3.0099618434906006,1.0099618434906006,low_overlap
+China to resume US investment talks,China and Taiwan hold historic talks,0.8,2.46958926320076,1.6695892632007598,low_overlap
+Nelson Mandela taken to hospital,Nelson Mandela released from hospital,1.6,4.064150452613831,2.4641504526138305,other
+"Today in History, April 23","Today in History, Jan. 21",1.4,3.306082785129547,1.9060827851295472,other
+UK alert on Syrian chemical arms,West raises stakes over Syria chemical claims,3.8,1.5697017312049866,2.2302982687950133,low_overlap
+Calif man pleads not guilty in girl kidnap case,Calif. man pleads not guilty in terrorism case,2.2,3.224821090698242,1.024821090698242,other
+Motorists killed after Japanese tunnel collapses,Cars trapped in tunnel collapse outside Tokyo,1.8,3.1871742010116577,1.3871742010116577,low_overlap
+Chinese shares close lower on Wednesday,Chinese students attacked in France,0.0,1.512438803911209,1.512438803911209,low_overlap
+"The Note's Must-Reads for Friday, December 6, 2013","The Note's Must-Reads for Friday, July 12, 2013",1.8,3.4786456823349,1.6786456823348999,other
+Stocks close 0.39% higher,Stocks close 2.47% higher,1.8,3.455057740211487,1.6550577402114868,other
+Queen pays tribute to Nelson Mandela,US presidents pay tribute to Mandela,1.6,3.4435835480690002,1.8435835480690002,other
+Iran says it captures drone; U.S. denies losing one,Iran says it has seized U.S. drone; U.S. says it's not true,4.8,3.5916316509246826,1.2083683490753172,negation_mismatch
+No radiation leak at Iran's nuclear plant,US Congress may throw wrench into Iran nuclear deal,0.8,1.8000541627407074,1.0000541627407074,negation_mismatch
+Singapore stocks end up 0.11 pct,Singapore stocks close 0.54 pct higher,2.2,3.3965882658958435,1.1965882658958433,other
+2 Pussy Riot Members Reunited in Krasnoyarsk,Freed Pussy Riot pair stir up anti-Putin protests,1.2,2.6560911536216736,1.4560911536216736,negation_mismatch
+Iran Moderate Wins Presidency by a Large Margin,Iran threatens to trigger oil price war,0.4,1.924053281545639,1.5240532815456391,low_overlap
+"Nicaragua, Venezuela offer asylum to Snowden",Bolivia's Morales says he would grant asylum to Snowden if asked,2.2,3.294147253036499,1.0941472530364988,other
+Chinese shares close lower on Wednesday,China stocks close lower on Friday,2.5,4.368035197257996,1.8680351972579956,other
+Miss New York Crowned Miss America 2013,Miss New York is crowned Miss America,3.0,4.1032737493515015,1.1032737493515015,other
+Brooks pleads not guilty to hacking charges,Dave Lee Travis pleads not guilty to all charges,1.4,2.5437092781066895,1.1437092781066895,other
+6.4-magnitude quake strikes off Indonesia,6.9-magnitude quake strikes off Russia's Kuril Islands,1.0,2.6749691367149353,1.6749691367149353,other
+Gunmen 'kill 10 tourists' in Kashmir,Gunmen kill four in Kenya church attack,2.2,0.956626683473587,1.2433733165264131,low_overlap
+Chinese shares close higher on Tuesday,Chinese shares close lower on Wednesday,1.8,4.386729598045349,2.5867295980453493,other
+Attack kills 12 in Afghanistan,NATO: 3 troops killed in Afghanistan attack,2.4,1.2401559948921204,1.1598440051078795,other
+Food poisoning kills at least 20 children in India,Baghdad cafe bombing kills at least 38,0.0,1.410018503665924,1.410018503665924,other
+17 govt employees killed in Pakistan bus bombing,At least 78 killed in Pakistan church bombing,0.8,1.9671741127967834,1.1671741127967834,other
+Obama signs law aimed at barring Iran UN envoy,Obama urges no new sanctions on Iran,1.0,2.877105474472046,1.877105474472046,negation_mismatch
+DPRK leader calls for better ties with S.Korea,North Korea urges foreigners to leave South Korea,0.4,2.103027254343033,1.703027254343033,negation_mismatch
+"EU Ministers of Employment and Social policy will discuss how to boost employment, integrate social and economic policies",EU Ministers of Employment and Social policy to discuss employment boosting strategies,3.0,4.433382451534271,1.4333824515342712,negation_mismatch
+"Boy, 14, arrested for sex attacks around a university campus",Two teenagers arrested after string of sex attacks on Manchester University campus,2.0,3.2986271381378174,1.2986271381378174,other
+Maldives begins to vote in controversy-ridden presidential poll,Crisis-hit Maldives holds new presidential poll,3.0,4.015755653381348,1.0157556533813477,other
+"Obama, Hollande Hail Transformed US-French Relationship",Hollande arrives for US state visit,1.0,2.7503371238708496,1.7503371238708496,low_overlap
+10 Things to Know for Wednesday,10 Things to Know for Thursday,2.0,4.260549545288086,2.260549545288086,other
+New UN peacekeeping chief named for Central African Republic,UN takes over peacekeeping in Central African Republic,2.0,3.77801775932312,1.7780177593231201,other
+Israeli police clash with Palestinian protesters at sensitive Jerusalem holy site,Israel Police Clash With Palestinians in Jerusalem,3.0,4.1252201795578,1.1252201795578003,other
+"3 killed, 4 injured in Los Angeles shootings",Five killed in Saudi Arabia shooting,0.0,1.796167641878128,1.796167641878128,low_overlap
+Scientists prove there is water on Mars,Has Nasa discovered water on Mars?,2.0,4.123067259788513,2.123067259788513,low_overlap
+Pranab stresses need to strive for peace by nations,WTO: India regrets action of developed nations,0.0,1.4973083138465881,1.4973083138465881,low_overlap
+Obama is right: Africa deserves better leadership,Obama waiting for midterm to name attorney general,0.0,1.1004969477653503,1.1004969477653503,low_overlap
+New video shows US police officers beating mentally-ill man,New York police officer critically wounded in hatchet attack,0.0,1.2183623015880585,1.2183623015880585,low_overlap
